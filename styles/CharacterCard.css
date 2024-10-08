@@ -1,0 +1,7 @@
+.character-card {
+    transition: transform 0.3s ease; /* Geçiş efekti için süre */
+}
+
+.character-card:hover {
+    transform: scale(1.05); /* Hover olduğunda büyüme efekti */
+}
